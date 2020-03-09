@@ -16,7 +16,7 @@ namespace INF154Prac05_u20447613_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmCasinoRoyale());
         }
     }
 }
