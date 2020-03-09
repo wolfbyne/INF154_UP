@@ -1,0 +1,9 @@
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\bin\Debug\INF154_Homework_1.exe.config
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\bin\Debug\INF154_Homework_1.exe
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\bin\Debug\INF154_Homework_1.pdb
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.csprojAssemblyReference.cache
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.Form1.resources
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.Properties.Resources.resources
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.csproj.GenerateResource.cache
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.exe
+C:\Users\flemi\source\repos\INF154_Homework_1\INF154_Homework_1\obj\Debug\INF154_Homework_1.pdb

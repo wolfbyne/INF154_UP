@@ -1,0 +1,9 @@
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\bin\Debug\INF154Prac02Ex01.exe.config
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\bin\Debug\INF154Prac02Ex01.exe
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\bin\Debug\INF154Prac02Ex01.pdb
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.csprojAssemblyReference.cache
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.frmArt.resources
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.Properties.Resources.resources
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.csproj.GenerateResource.cache
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.exe
+C:\Users\flemi\source\repos\INF154Prac02Ex01\INF154Prac02Ex01\obj\Debug\INF154Prac02Ex01.pdb

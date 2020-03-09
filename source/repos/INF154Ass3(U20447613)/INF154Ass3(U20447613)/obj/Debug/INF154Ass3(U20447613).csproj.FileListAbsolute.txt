@@ -1,0 +1,9 @@
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\bin\Debug\INF154Ass3(U20447613).exe.config
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\bin\Debug\INF154Ass3(U20447613).exe
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\bin\Debug\INF154Ass3(U20447613).pdb
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3(U20447613).csprojAssemblyReference.cache
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3_U20447613_.frmFitness.resources
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3_U20447613_.Properties.Resources.resources
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3(U20447613).csproj.GenerateResource.cache
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3(U20447613).exe
+C:\Users\flemi\source\repos\INF154Ass3(U20447613)\INF154Ass3(U20447613)\obj\Debug\INF154Ass3(U20447613).pdb
