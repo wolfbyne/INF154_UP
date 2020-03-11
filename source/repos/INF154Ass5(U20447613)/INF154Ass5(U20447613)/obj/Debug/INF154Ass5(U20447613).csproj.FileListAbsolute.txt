@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\bin\Debug\INF154Ass5(U20447613).exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\bin\Debug\INF154Ass5(U20447613).exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\bin\Debug\INF154Ass5(U20447613).pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5(U20447613).csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5_U20447613_.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5(U20447613).csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5(U20447613).exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5(U20447613).pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass5(U20447613)\INF154Ass5(U20447613)\obj\Debug\INF154Ass5_U20447613_.frmEnglishGame.resources
