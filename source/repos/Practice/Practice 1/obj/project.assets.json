@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flemi\\source\\repos\\Practice\\Practice 1\\Practice 1.csproj",
+      "projectUniqueName": "C:\\Users\\flemi\\Documents\\GitHub\\INF154_UP\\source\\repos\\Practice\\Practice 1\\Practice 1.csproj",
       "projectName": "Practice 1",
-      "projectPath": "C:\\Users\\flemi\\source\\repos\\Practice\\Practice 1\\Practice 1.csproj",
+      "projectPath": "C:\\Users\\flemi\\Documents\\GitHub\\INF154_UP\\source\\repos\\Practice\\Practice 1\\Practice 1.csproj",
       "packagesPath": "C:\\Users\\flemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flemi\\source\\repos\\Practice\\Practice 1\\obj\\",
+      "outputPath": "C:\\Users\\flemi\\Documents\\GitHub\\INF154_UP\\source\\repos\\Practice\\Practice 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

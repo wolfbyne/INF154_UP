@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.Form1.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\bin\Debug\U20447613_Booking_Class_Test.exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\bin\Debug\U20447613_Booking_Class_Test.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\bin\Debug\U20447613_Booking_Class_Test.pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\U20447613_Booking_Class_Test\U20447613_Booking_Class_Test\obj\Debug\U20447613_Booking_Class_Test.pdb

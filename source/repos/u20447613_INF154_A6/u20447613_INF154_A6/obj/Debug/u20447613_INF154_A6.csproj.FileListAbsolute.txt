@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\bin\Debug\u20447613_INF154_A6.exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\bin\Debug\u20447613_INF154_A6.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\bin\Debug\u20447613_INF154_A6.pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.frmClassSignUp.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A6\u20447613_INF154_A6\obj\Debug\u20447613_INF154_A6.pdb
