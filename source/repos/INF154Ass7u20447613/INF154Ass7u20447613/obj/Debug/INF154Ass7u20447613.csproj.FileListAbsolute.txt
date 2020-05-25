@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\bin\Debug\INF154Ass7u20447613.exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\bin\Debug\INF154Ass7u20447613.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\bin\Debug\INF154Ass7u20447613.pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.Form1.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Ass7u20447613\INF154Ass7u20447613\obj\Debug\INF154Ass7u20447613.pdb

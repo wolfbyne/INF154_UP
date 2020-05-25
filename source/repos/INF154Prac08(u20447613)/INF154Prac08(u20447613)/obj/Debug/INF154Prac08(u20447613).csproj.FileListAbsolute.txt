@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\bin\Debug\INF154Prac08(u20447613).exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\bin\Debug\INF154Prac08(u20447613).exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\bin\Debug\INF154Prac08(u20447613).pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08(u20447613).csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08_u20447613_.frm1.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08_u20447613_.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08(u20447613).csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08(u20447613).exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\INF154Prac08(u20447613)\INF154Prac08(u20447613)\obj\Debug\INF154Prac08(u20447613).pdb
