@@ -1,0 +1,9 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\bin\Debug\u20447613_INF154_A8.exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\bin\Debug\u20447613_INF154_A8.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\bin\Debug\u20447613_INF154_A8.pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.frmManage.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\u20447613_INF154_A8\u20447613_INF154_A8\obj\Debug\u20447613_INF154_A8.pdb
