@@ -6,8 +6,27 @@ namespace Practice_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.ReadLine();
+            int myCounter=5;
+
+            bool Checked = true;
+
+            if (!Checked)
+
+            {
+
+                myCounter += 5;
+
+            }
+
+            else
+
+            {
+
+                myCounter += 2;
+
+            }
+
+            Console.WriteLine(Convert.ToString(myCounter));
         }
     }
 }
