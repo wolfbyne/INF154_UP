@@ -6,27 +6,17 @@ namespace Practice_1
     {
         static void Main(string[] args)
         {
-            int myCounter=5;
+            string test = "distance";
+            Random rnd = new Random();
 
-            bool Checked = true;
-
-            if (!Checked)
-
+            int i = 0;
+            while(i < 10)
             {
-
-                myCounter += 5;
-
+                int leaveOut = rnd.Next(0, test.Length);
+                Console.WriteLine(test.Replace(test.Substring(leaveOut, 1), "*"));
+                i++;
             }
-
-            else
-
-            {
-
-                myCounter += 2;
-
-            }
-
-            Console.WriteLine(Convert.ToString(myCounter));
+            
         }
     }
 }

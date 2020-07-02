@@ -78,7 +78,7 @@ namespace INF154Prac09_u20447613_
 
         public int CountLetters(char c)
         {
-            int lettercount; ;
+            int lettercount;
             string text = rtbInput.Text;
             lettercount = text.Split(c).Length -1;      
             return lettercount;
