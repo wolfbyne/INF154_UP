@@ -6,17 +6,14 @@ namespace Practice_1
     {
         static void Main(string[] args)
         {
-            string test = "distance";
-            Random rnd = new Random();
-
-            int i = 0;
-            while(i < 10)
+            int a = 5, b = 6, c = 8;
+            if (((a == 5) || (b == 6)))
             {
-                int leaveOut = rnd.Next(0, test.Length);
-                Console.WriteLine(test.Replace(test.Substring(leaveOut, 1), "*"));
-                i++;
+                Console.WriteLine("TRUE");
             }
-            
+            else
+                Console.WriteLine("FALSE");
         }
+        
     }
 }

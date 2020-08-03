@@ -1,0 +1,14 @@
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\bin\Debug\Interop.WMPLib.dll
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\Interop.WMPLib.dll
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.ResolveComReference.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\flemi\Documents\GitHub\INF154_UP\source\repos\TestForm\TestForm\obj\Debug\TestForm.pdb
