@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace INF164Prac06_u20447613_
+{
+    class Booking
+    {
+
+        private string mName;
+        private string mSurname;
+        private int mPhoneNumber;
+        private DateTime mDate;
+        private string mSession;
+        private string mType;
+
+        public Booking(string name, string sur, int pnum, DateTime date, string sess, string typ)
+        {
+            mName = name;
+            mSurname = sur;
+            mPhoneNumber = pnum;
+            mDate = date;
+            mSession = sess;
+            mType = typ;
+        }
+
+        public void cardMachine()
+        {
+            if (mType.Equals("Card"))
+            {
+                string msg = "Remember to bring along a card machine with you!";
+            }
+        }
+
+        public string MName { get => mName; set => mName = value; }
+        public string MSurname { get => mSurname; set => mSurname = value; }
+        public int MPhoneNumber { get => mPhoneNumber; set => mPhoneNumber = value; }
+        public DateTime MDate { get => mDate; set => mDate = value; }
+        public string MSession { get => mSession; set => mSession = value; }
+        public string MType { get => mType; set => mType = value; }
+    }
+}
